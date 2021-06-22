@@ -1,6 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import FormGenerator from "./form-builder";
 
+console.log(FormGenerator);
 function App() {
   return (
     <div className="App">
